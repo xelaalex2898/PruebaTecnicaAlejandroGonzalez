@@ -49,6 +49,7 @@ Esto creará un servidor local en el puerto 4200
 Una vez ahí deberá registrarse. Por defecto los usuarios que cree dentro de la aplicación tendrán el rol de usuario NO manager. 
 
 ## Comentarios fianles
+debo aclarar wue dejé la barra superior en el formulario de login para que sin iniciar sesión puedan acceder a los apartados y verificar fácilmente que no son accesibles a menos que se inicie sesión. 
 
     Espero sea de su agrado, me esforcé mucho por seguir convenciones de clean code en ambos frameworks.
     Por tema de tiempo hay cosas que no pude completar como usar los servicios en angular. 
