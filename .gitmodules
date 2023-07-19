@@ -1,0 +1,9 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/xelaalex2898/EntrevistaSoloTalentoBackend.git
+[submodule "EntrevistaSoloTalentoFrontend"]
+	path = EntrevistaSoloTalentoFrontend
+	url = https://github.com/xelaalex2898/entrevistaSoloTalentoFronted.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/xelaalex2898/entrevistaSoloTAlentoFronted.git
